@@ -1,0 +1,782 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Jose Pilco",
+      "correo": "admin@gmail.com",
+      "usuario": "josepilco",
+      "contraseña": "admin",
+      "id": 1
+    },
+    {
+      "nombre": "123",
+      "correo": "123",
+      "usuario": "123",
+      "password": "123",
+      "id": 1671028941097
+    }
+  ],
+  "distritos": [
+    {
+      "id": 1,
+      "nombre": "Alto Selva Alegre",
+      "latitud_inicial": "-16.376846237114634",
+      "longitud_inicial": "-71.52063712282771",
+      "latitud_final": "-16.406317",
+      "longitud_final": "-71.537654",
+      "rutas": [
+        {
+          "nombre": "Ruta Graficos Polanco A",
+          "latitud_inicial": "-16.367674",
+          "longitud_inicial": "-71.507207",
+          "latitud_final": "-16.414751",
+          "longitud_final": "-71.553121",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.373201",
+              "longitud": "-71.514533"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379702",
+              "longitud": "-71.521325"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.384832",
+              "longitud": "-71.526651"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.387684641165016",
+              "longitud": "-71.52886081761842"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.399921536121372",
+              "longitud": "-71.54205951460051"
+            },
+            {
+              "nombre": "Paradero F",
+              "latitud": "-16.407277",
+              "longitud": "-71.548511"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta San Luis A",
+          "latitud_inicial": "-16.366421",
+          "longitud_inicial": "-71.517322",
+          "latitud_final": "-16.440265",
+          "longitud_final": "-71.520039",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.374104",
+              "longitud": "-71.521812"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.378052",
+              "longitud": "-71.527956"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.382667",
+              "longitud": "-71.532180"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.387718",
+              "longitud": "-71.532852"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.397935",
+              "longitud": "-71.541286"
+            },
+            {
+              "nombre": "Paradero F",
+              "latitud": "-16.414021",
+              "longitud": "-71.528167"
+            },
+            {
+              "nombre": "Paradero G",
+              "latitud": "-16.426630",
+              "longitud": "-71.524322"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta San Luis D",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.378461",
+              "longitud": "-71.520649 "
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379932",
+              "longitud": "-71.521164"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.385707",
+              "longitud": "-71.527193"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.392212",
+              "longitud": "-71.534410"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.403554",
+              "longitud": "-71.542671"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta Polanco B",
+          "latitud_inicial": "-16.379268",
+          "longitud_inicial": "-71.5222536",
+          "latitud_final": "-16.4075363",
+          "longitud_final": "-71.5252838",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.383048",
+              "longitud": "-71.525286"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.389582",
+              "longitud": "-71.526784"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.394327",
+              "longitud": "-71.521473"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.403083",
+              "longitud": "-71.518185"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.403554",
+              "longitud": "-71.542671"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Escudo_de_Alto_Selva_alegre.png",
+      "descripcion": "El distrito de Alto Selva Alegre es uno de los veintinueve que conforman la provincia de Arequipa"
+    },
+    {
+      "id": 2,
+      "nombre": "Jose Luis Bustamante y Rivero",
+      "latitud_inicial": "-16.376846237114634",
+      "longitud_inicial": "-71.52063712282771",
+      "latitud_final": "-16.406317",
+      "longitud_final": "-71.537654",
+      "rutas": [
+        {
+          "nombre": "Ruta Kotum B",
+          "latitud_inicial": "-16.367998",
+          "longitud_inicial": "-71.5384401",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.373115",
+              "longitud": "-71.536783"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.383779",
+              "longitud": "-71.539659"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.393043",
+              "longitud": "-71.539702"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.398148",
+              "longitud": "-71.541719"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.405188",
+              "longitud": "-71.536483"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta 3 de Octubre B",
+          "latitud_inicial": "-16.366421",
+          "longitud_inicial": "-71.517322",
+          "latitud_final": "-16.440265",
+          "longitud_final": "-71.520039",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.369812",
+              "longitud": "-71.518657"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.374588",
+              "longitud": "-71.522562"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.382411",
+              "longitud": "-71.532175"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.396739",
+              "longitud": "-71.531574"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.410983",
+              "longitud": "-71.528828"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta 3 de Octubre A",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.379140",
+              "longitud": "-71.520788"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.381137",
+              "longitud": "-71.522419"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.383772",
+              "longitud": "-71.525552"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.388466",
+              "longitud": "-71.526464"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.392377",
+              "longitud": "-71.527365"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta 3 de Octubre",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654"
+        }
+      ],
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Escudo_de_Jos%C3%A9_Luis_Bustamante_y_rivero.png/71px-Escudo_de_Jos%C3%A9_Luis_Bustamante_y_rivero.png",
+      "descripcion": "El distrito de José Luis Bustamante y Rivero es uno de los veintinueve que conforman la provincia de Arequipa"
+    },
+    {
+      "id": 3,
+      "nombre": "Paucarpata",
+      "latitud_inicial": "-16.376846237114634",
+      "longitud_inicial": "-71.52063712282771",
+      "latitud_final": "-16.406317",
+      "longitud_final": "-71.537654",
+      "rutas": [
+        {
+          "nombre": "Ruta  Ciudad Blanca",
+          "latitud_inicial": "-16.367674",
+          "longitud_inicial": "-71.507207",
+          "latitud_final": "-16.414751",
+          "longitud_final": "-71.553121",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.373201",
+              "longitud": "-71.514533"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379702",
+              "longitud": "-71.521325"
+            }
+          ]
+        },
+        {
+          "nombre": "Baños Jesus",
+          "latitud_inicial": "-16.366421",
+          "longitud_inicial": "-71.517322",
+          "latitud_final": "-16.440265",
+          "longitud_final": "-71.520039",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.374104",
+              "longitud": "-71.521812"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379702",
+              "longitud": "-71.521325"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta A",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.378461",
+              "longitud": "-71.520649 "
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379932",
+              "longitud": "-71.521164"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.385707",
+              "longitud": "-71.527193"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.392212",
+              "longitud": "-71.534410"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.403554",
+              "longitud": "-71.542671"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta  B",
+          "latitud_inicial": "-16.379268",
+          "longitud_inicial": "-71.5222536",
+          "latitud_final": "-16.4075363",
+          "longitud_final": "-71.5252838",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.383048",
+              "longitud": "-71.525286"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.389582",
+              "longitud": "-71.526784"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.394327",
+              "longitud": "-71.521473"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.403083",
+              "longitud": "-71.518185"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.403554",
+              "longitud": "-71.542671"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Escudo_de_Paucarpata.png/595px-Escudo_de_Paucarpata.png",
+      "descripcion": "El distrito de Paucarpata es uno de los veintinueve que conforman la provincia de Arequipa"
+    },
+    {
+      "id": 3,
+      "nombre": "Cerro Colorado",
+      "latitud_inicial": "-16.376846237114634",
+      "longitud_inicial": "-71.52063712282771",
+      "latitud_final": "-16.406317",
+      "longitud_final": "-71.537654",
+      "rutas": [
+        {
+          "nombre": "Ruta A",
+          "latitud_inicial": "-16.367998",
+          "longitud_inicial": "-71.5384401",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.373115",
+              "longitud": "-71.536783"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.383779",
+              "longitud": "-71.539659"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.393043",
+              "longitud": "-71.539702"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.398148",
+              "longitud": "-71.541719"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.405188",
+              "longitud": "-71.536483"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta  B",
+          "latitud_inicial": "-16.366421",
+          "longitud_inicial": "-71.517322",
+          "latitud_final": "-16.440265",
+          "longitud_final": "-71.520039",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.369812",
+              "longitud": "-71.518657"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.374588",
+              "longitud": "-71.522562"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.382411",
+              "longitud": "-71.532175"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.396739",
+              "longitud": "-71.531574"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.410983",
+              "longitud": "-71.528828"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta C",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.379140",
+              "longitud": "-71.520788"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.381137",
+              "longitud": "-71.522419"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.383772",
+              "longitud": "-71.525552"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.388466",
+              "longitud": "-71.526464"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.392377",
+              "longitud": "-71.527365"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta D",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654"
+        }
+      ],
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Aqp-Arequipa-Cerro_Colorado.png",
+      "descripcion": "Cerro Colorado, es uno de los 29 distritos que conforman la provincia de Arequipa "
+    },
+    {
+      "id": 5,
+      "nombre": "Miraflores",
+      "latitud_inicial": "-16.376846237114634",
+      "longitud_inicial": "-71.52063712282771",
+      "latitud_final": "-16.406317",
+      "longitud_final": "-71.537654",
+      "rutas": [
+        {
+          "nombre": "Ruta Graficos Polanco A",
+          "latitud_inicial": "-16.367674",
+          "longitud_inicial": "-71.507207",
+          "latitud_final": "-16.414751",
+          "longitud_final": "-71.553121",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.373201",
+              "longitud": "-71.514533"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379702",
+              "longitud": "-71.521325"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta San Luis A",
+          "latitud_inicial": "-16.366421",
+          "longitud_inicial": "-71.517322",
+          "latitud_final": "-16.440265",
+          "longitud_final": "-71.520039",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.374104",
+              "longitud": "-71.521812"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379702",
+              "longitud": "-71.521325"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta San Luis D",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.378461",
+              "longitud": "-71.520649 "
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.379932",
+              "longitud": "-71.521164"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.385707",
+              "longitud": "-71.527193"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.392212",
+              "longitud": "-71.534410"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.403554",
+              "longitud": "-71.542671"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta Polanco B",
+          "latitud_inicial": "-16.379268",
+          "longitud_inicial": "-71.5222536",
+          "latitud_final": "-16.4075363",
+          "longitud_final": "-71.5252838",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.383048",
+              "longitud": "-71.525286"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.389582",
+              "longitud": "-71.526784"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.394327",
+              "longitud": "-71.521473"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.403083",
+              "longitud": "-71.518185"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.403554",
+              "longitud": "-71.542671"
+            }
+          ]
+        }
+      ],
+      "imagen": "https://www.munimiraflores-arequipa.gob.pe/wp-content/uploads/2019/03/Escudo_de_Miraflores-234x300.png",
+      "descripcion": "El distrito de Miraflores, históricamente llamado Pampa de Miraflores, es un distrito ubicado en la provincia de Arequipa, ubicada en el departamento de Arequipa, Perú.​"
+    },
+    {
+      "id": 6,
+      "nombre": "Yanahuara",
+      "latitud_inicial": "-16.376846237114634",
+      "longitud_inicial": "-71.52063712282771",
+      "latitud_final": "-16.406317",
+      "longitud_final": "-71.537654",
+      "rutas": [
+        {
+          "nombre": "Ruta Kotum B",
+          "latitud_inicial": "-16.367998",
+          "longitud_inicial": "-71.5384401",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.373115",
+              "longitud": "-71.536783"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.383779",
+              "longitud": "-71.539659"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.393043",
+              "longitud": "-71.539702"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.398148",
+              "longitud": "-71.541719"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.405188",
+              "longitud": "-71.536483"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta 3 de Octubre B",
+          "latitud_inicial": "-16.366421",
+          "longitud_inicial": "-71.517322",
+          "latitud_final": "-16.440265",
+          "longitud_final": "-71.520039",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.369812",
+              "longitud": "-71.518657"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.374588",
+              "longitud": "-71.522562"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.382411",
+              "longitud": "-71.532175"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.396739",
+              "longitud": "-71.531574"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.410983",
+              "longitud": "-71.528828"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta 3 de Octubre A",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654",
+          "paraderos": [
+            {
+              "nombre": "Paradero A",
+              "latitud": "-16.379140",
+              "longitud": "-71.520788"
+            },
+            {
+              "nombre": "Paradero B",
+              "latitud": "-16.381137",
+              "longitud": "-71.522419"
+            },
+            {
+              "nombre": "Paradero C",
+              "latitud": "-16.383772",
+              "longitud": "-71.525552"
+            },
+            {
+              "nombre": "Paradero D",
+              "latitud": "-16.388466",
+              "longitud": "-71.526464"
+            },
+            {
+              "nombre": "Paradero E",
+              "latitud": "-16.392377",
+              "longitud": "-71.527365"
+            }
+          ]
+        },
+        {
+          "nombre": "Ruta 3 de Octubre",
+          "latitud_inicial": "-16.376846237114634",
+          "longitud_inicial": "-71.52063712282771",
+          "latitud_final": "-16.406317",
+          "longitud_final": "-71.537654"
+        }
+      ],
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Escudo_de_Armas_de_Arequipa.svg/800px-Escudo_de_Armas_de_Arequipa.svg.png",
+      "descripcion": "El distrito de Yanahuara es uno de los 29 distritos que conforman la provincia de Arequipa en el departamento de Arequipa,"
+    }
+  ]
+}

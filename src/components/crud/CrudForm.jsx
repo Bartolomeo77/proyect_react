@@ -25,6 +25,8 @@ const CrudForm = ({ addNombre, editNombre, editData }) => {
     }
   }, [editData])
 
+
+  
   const handleSubmit = (e) => {
     e.preventDefault(); // Evitar que se recarge la página
     

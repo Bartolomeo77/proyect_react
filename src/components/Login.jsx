@@ -41,7 +41,7 @@ class Login extends Component{
                 cookies.set('password',respuesta.password,{path:"/"})
                 let data = respuesta.usuario
                 alert('Bienvenido '+data);
-                window.location.href="./Register";
+                window.location.href="./CrudAPI";
 
             }else {
                 alert('el usuario o la contraseña no son correctos')

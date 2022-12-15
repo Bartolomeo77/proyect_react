@@ -44,7 +44,7 @@ const CrudApp = () => {
   }
 
   return <>
-    <h2>CRUD de usuarios de futbol...</h2>
+    <h2>CRUD de usuarios...</h2>
     <CrudForm addNombre={addNombre} editNombre={editNombre} editData={editData}/>
     <CrudTable usuarios={usuarios} setEditData={setEditData} deleteNombre={deleteNombre}/>
   </>

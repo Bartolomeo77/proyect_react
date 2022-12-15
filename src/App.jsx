@@ -8,6 +8,7 @@ import "./App.css"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Index from "./components/Index";
 import Login from "./components/Login";
+import MapView from "./components/map/MapView";
 
 const App = () => {
 
@@ -17,6 +18,8 @@ const App = () => {
         <Route path='/crudAPI' element={<CrudAPI />}/>
         <Route path='/index' element={<Index />}/>
         <Route path='/login' element={<Login />}/>
+        <Route path='/map' element={<MapView/>}/>
+        
       </Routes>
     
   )
